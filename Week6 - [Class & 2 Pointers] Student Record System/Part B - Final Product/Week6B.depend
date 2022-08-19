@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1644329155 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week6\week6\week6b\main.cpp
+	<iostream>
+	<algorithm>
+	"Week6A_Functions.h"
+
+1644329796 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week6\week6\week6b\week6b_student.cpp
+	"Week6B_Student.h"
+	<iostream>
+
+1644329796 c:\users\lotto\desktop\lotto\computer science\cs162c\week6\week6\week6b\week6b_student.h
+	<iostream>
+
+1644329796 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week6\week6\week6b\week6b_functions.cpp
+	"Week6B_Functions.h"
+	<iostream>
+	<iomanip>
+
+1644329796 c:\users\lotto\desktop\lotto\computer science\cs162c\week6\week6\week6b\week6b_functions.h
+	<iostream>
+	"Week6B_Student.h"
+
+1644501887 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week6\week6\week6b_trial2\main.cpp
+	<iostream>
+	<algorithm>
+	"Week6B_Functions.h"
+
+1644501638 c:\users\lotto\desktop\lotto\computer science\cs162c\week6\week6\week6b_trial2\week6b_functions.h
+	<iostream>
+	"Week6B_Student.h"
+
+1644505941 c:\users\lotto\desktop\lotto\computer science\cs162c\week6\week6\week6b_trial2\week6b_student.h
+	<iostream>
+
+1644329796 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week6\week6\week6b_trial2\week6b_student.cpp
+	"Week6B_Student.h"
+	<iostream>
+
+1644501582 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week6\week6\week6b_trial2\week6b_functions.cpp
+	"Week6B_Functions.h"
+	<iostream>
+	<iomanip>
+
+1644543298 source:c:\users\lotto.tang\desktop\self\cs162c\week6\week6\week6b_trial2\main.cpp
+	<iostream>
+	<algorithm>
+	"Week6B_Functions.h"
+
+1644542893 c:\users\lotto.tang\desktop\self\cs162c\week6\week6\week6b_trial2\week6b_functions.h
+	<iostream>
+	"Week6B_Student.h"
+
+1644543341 c:\users\lotto.tang\desktop\self\cs162c\week6\week6\week6b_trial2\week6b_student.h
+	<iostream>
+
+1644559448 source:c:\users\lotto.tang\desktop\self\cs162c\week6\week6\week6b_trial2\week6b_functions.cpp
+	"Week6B_Functions.h"
+	<iostream>
+	<iomanip>
+
+1644541974 source:c:\users\lotto.tang\desktop\self\cs162c\week6\week6\week6b_trial2\week6b_student.cpp
+	"Week6B_Student.h"
+	<iostream>
+
+1644543298 source:c:\users\lotto.tang\desktop\self\cs162c\week6\week6\week6b\main.cpp
+	<iostream>
+	<algorithm>
+	"Week6B_Functions.h"
+
+1644542893 c:\users\lotto.tang\desktop\self\cs162c\week6\week6\week6b\week6b_functions.h
+	<iostream>
+	"Week6B_Student.h"
+
+1644543341 c:\users\lotto.tang\desktop\self\cs162c\week6\week6\week6b\week6b_student.h
+	<iostream>
+
+1644561673 source:c:\users\lotto.tang\desktop\self\cs162c\week6\week6\week6b\week6b_functions.cpp
+	"Week6B_Functions.h"
+	<iostream>
+	<iomanip>
+
+1644541974 source:c:\users\lotto.tang\desktop\self\cs162c\week6\week6\week6b\week6b_student.cpp
+	"Week6B_Student.h"
+	<iostream>
+
+1644485698 source:c:\users\lotto.tang\downloads\cs162c\week6\week6b\main.cpp
+	<iostream>
+	<algorithm>
+	"Week6B_Functions.h"
+
+1644485292 c:\users\lotto.tang\downloads\cs162c\week6\week6b\week6b_functions.h
+	<iostream>
+	"Week6B_Student.h"
+
+1644485740 c:\users\lotto.tang\downloads\cs162c\week6\week6b\week6b_student.h
+	<iostream>
+
+1644504072 source:c:\users\lotto.tang\downloads\cs162c\week6\week6b\week6b_functions.cpp
+	"Week6B_Functions.h"
+	<iostream>
+	<iomanip>
+
+1644484374 source:c:\users\lotto.tang\downloads\cs162c\week6\week6b\week6b_student.cpp
+	"Week6B_Student.h"
+	<iostream>
+

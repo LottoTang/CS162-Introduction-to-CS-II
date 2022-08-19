@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1643273275 source:c:\users\lotto.tang\desktop\self\cs162c\week4b\main.cpp
+	<iostream>
+	"Week4BFunctions.h"
+
+1643252186 c:\users\lotto.tang\desktop\self\cs162c\week4b\week4bfunctions.h
+
+1643208932 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week4\week4b\main.cpp
+	<iostream>
+	<algorithm>
+	"Week4BFunctions.h"
+
+1643203809 c:\users\lotto\desktop\lotto\computer science\cs162c\week4\week4b\week4bfunctions.h
+
+1643205102 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week4\week4b\week4bfunctions.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+	"Week4BFunctions.h"
+
+1643268094 source:c:\users\lotto.tang\desktop\self\cs162c\week4b\week4bfunctions.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+	"Week4BFunctions.h"
+
+1643158234 source:c:\users\lotto.tang\downloads\cs162c\week4\week4b\main.cpp
+	<iostream>
+	"Week4BFunctions.h"
+
+1643158234 c:\users\lotto.tang\downloads\cs162c\week4\week4b\week4bfunctions.h
+
+1643158234 source:c:\users\lotto.tang\downloads\cs162c\week4\week4b\week4bfunctions.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+	"Week4BFunctions.h"
+

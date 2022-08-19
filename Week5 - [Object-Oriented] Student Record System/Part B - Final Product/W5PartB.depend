@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1643608431 source:c:\users\lotto.tang\desktop\self\cs162c\week5\w5partb\main.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+	"W5PartB.h"
+
+1643611335 c:\users\lotto.tang\desktop\self\cs162c\week5\w5partb\w5partb.h
+
+1643610359 source:c:\users\lotto.tang\desktop\self\cs162c\week5\w5partb\w5partb.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+	"W5PartB.h"
+
+1643871645 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week5\w5partb\main.cpp
+	<iostream>
+	<algorithm>
+	"W5PartB.h"
+
+1643902295 c:\users\lotto\desktop\lotto\computer science\cs162c\week5\w5partb\w5partb.h
+
+1643902713 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week5\w5partb\w5partb.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+	"W5PartB.h"
+
+1643814044 source:c:\users\lotto.tang\desktop\self\cs162c\week5\week5\week5\w5partb\main.cpp
+	<iostream>
+	<algorithm>
+	"W5PartB.h"
+
+1643955762 c:\users\lotto.tang\desktop\self\cs162c\week5\week5\week5\w5partb\w5partb.h
+
+1643956974 source:c:\users\lotto.tang\desktop\self\cs162c\week5\week5\week5\w5partb\w5partb.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+	"W5PartB.h"
+
+1660879302 source:c:\users\lotto.tang\downloads\cs162c\week5\w5partb\main.cpp
+	<iostream>
+	<algorithm>
+	"W5PartB.h"
+
+1643898162 c:\users\lotto.tang\downloads\cs162c\week5\w5partb\w5partb.h
+
+1643910798 source:c:\users\lotto.tang\downloads\cs162c\week5\w5partb\w5partb.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+	"W5PartB.h"
+

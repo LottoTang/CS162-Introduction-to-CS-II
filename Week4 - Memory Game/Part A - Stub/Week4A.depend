@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1643293486 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week4\week4\week4a\main.cpp
+	<iostream>
+	"Week4AFunctions.h"
+
+1643217044 c:\users\lotto\desktop\lotto\computer science\cs162c\week4\week4\week4a\week4afunctions.h
+
+1643295164 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week4\week4\week4a\week4afunctions.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+	"Week4AFunctions.h"
+
+1643237650 source:c:\users\lotto.tang\downloads\cs162c\week4\part a - stub\main.cpp
+	<iostream>
+	"Week4AFunctions.h"
+
+1643159444 c:\users\lotto.tang\downloads\cs162c\week4\part a - stub\week4afunctions.h
+
+1643237564 source:c:\users\lotto.tang\downloads\cs162c\week4\part a - stub\week4afunctions.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+	"Week4AFunctions.h"
+

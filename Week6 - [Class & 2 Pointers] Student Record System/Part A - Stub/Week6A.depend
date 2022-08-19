@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1644505943 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week6\week6\week6a\main.cpp
+	<iostream>
+	<algorithm>
+	"Week6A_Functions.h"
+
+1644505943 c:\users\lotto\desktop\lotto\computer science\cs162c\week6\week6\week6a\week6a_functions.h
+	<iostream>
+	"Week6A_Student.h"
+
+1644333132 c:\users\lotto\desktop\lotto\computer science\cs162c\week6\week6\week6a\week6a_student.h
+	<iostream>
+
+1644506132 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week6\week6\week6a\week6a_functions.cpp
+	"Week6A_Functions.h"
+	<iostream>
+	<iomanip>
+
+1644333131 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week6\week6\week6a\week6a_student.cpp
+	"Week6A_Student.h"
+	<iostream>
+
+1644448342 source:c:\users\lotto.tang\downloads\cs162c\week6 - [class & 2 pointers] student record system\part a - stub\main.cpp
+	<iostream>
+	<algorithm>
+	"Week6A_Functions.h"
+
+1644448342 c:\users\lotto.tang\downloads\cs162c\week6 - [class & 2 pointers] student record system\part a - stub\week6a_functions.h
+	<iostream>
+	"Week6A_Student.h"
+
+1644275532 c:\users\lotto.tang\downloads\cs162c\week6 - [class & 2 pointers] student record system\part a - stub\week6a_student.h
+	<iostream>
+
+1644448578 source:c:\users\lotto.tang\downloads\cs162c\week6 - [class & 2 pointers] student record system\part a - stub\week6a_functions.cpp
+	"Week6A_Functions.h"
+	<iostream>
+	<iomanip>
+
+1644275530 source:c:\users\lotto.tang\downloads\cs162c\week6 - [class & 2 pointers] student record system\part a - stub\week6a_student.cpp
+	"Week6A_Student.h"
+	<iostream>
+

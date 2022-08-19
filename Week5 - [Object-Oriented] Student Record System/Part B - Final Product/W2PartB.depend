@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1641907059 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week2\w2partb\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<algorithm>
+	<iomanip>
+	"W2PartB.h"
+
+1641629442 c:\users\lotto\desktop\lotto\computer science\cs162c\week2\w2partb\w2partb.h
+
+1641907126 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week2\w2partb\w2partb.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<algorithm>
+	<iomanip>
+	"W2PartB.h"
+
+1642057452 source:c:\users\lotto.tang\desktop\self\cs162c\week2\w2partb\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<algorithm>
+	<iomanip>
+	"W2PartB.h"
+
+1642057470 c:\users\lotto.tang\desktop\self\cs162c\week2\w2partb\w2partb.h
+
+1642057440 source:c:\users\lotto.tang\desktop\self\cs162c\week2\w2partb\w2partb.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<algorithm>
+	<iomanip>
+	"W2PartB.h"
+
+1641922854 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week2\attempt2\attempt2\w2partb\w2partb.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<algorithm>
+	<iomanip>
+	"W2PartB.h"
+
+1641898510 c:\users\lotto\desktop\lotto\computer science\cs162c\week2\attempt2\attempt2\w2partb\w2partb.h
+
+1642057778 source:c:\users\lotto.tang\desktop\self\cs162c\week2\w2partb_attempt2\w2partb\w2partb.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<iomanip>
+	"W2PartB.h"
+
+1642752991 c:\users\lotto.tang\desktop\self\cs162c\week2\w2partb_attempt2\w2partb\w2partb.h
+
+1642753082 source:c:\users\lotto.tang\desktop\self\cs162c\week2\w2partb_attempt2\w2partb\main.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+	"W2PartB.h"
+

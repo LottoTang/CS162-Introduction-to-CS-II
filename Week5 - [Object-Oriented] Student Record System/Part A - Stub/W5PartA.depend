@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1643881632 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week5\w5parta\main.cpp
+	<iostream>
+	<algorithm>
+	"W5PartA.h"
+
+1643875964 c:\users\lotto\desktop\lotto\computer science\cs162c\week5\w5parta\w5parta.h
+
+1643880997 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week5\w5parta\w5parta.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+	"W5PartA.h"
+
+1643824032 source:c:\users\lotto.tang\desktop\self\cs162c\week5\week5\week5\w5parta\main.cpp
+	<iostream>
+	<algorithm>
+	"W5PartA.h"
+
+1643818364 c:\users\lotto.tang\desktop\self\cs162c\week5\week5\week5\w5parta\w5parta.h
+
+1643823396 source:c:\users\lotto.tang\desktop\self\cs162c\week5\week5\week5\w5parta\w5parta.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+	"W5PartA.h"
+
+1643766432 source:c:\users\lotto.tang\downloads\cs162c\week5\part a - stub\main.cpp
+	<iostream>
+	<algorithm>
+	"W5PartA.h"
+
+1643760764 c:\users\lotto.tang\downloads\cs162c\week5\part a - stub\w5parta.h
+
+1643765796 source:c:\users\lotto.tang\downloads\cs162c\week5\part a - stub\w5parta.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+	"W5PartA.h"
+
