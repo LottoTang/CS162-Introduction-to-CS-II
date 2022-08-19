@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1641457733 source:c:\users\lotto.tang\desktop\self\cs162c\week1\submission\partb\commonfunctions.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	"CommonFunctions.h"
+
+1641457766 c:\users\lotto.tang\desktop\self\cs162c\week1\submission\partb\commonfunctions.h
+	<iostream>
+	<algorithm>
+	<string>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1641341472 source:c:\users\lotto.tang\desktop\self\cs162c\week1\submission\partb\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	"CommonFunctions.h"
+
+1641400132 source:c:\users\lotto.tang\downloads\cs162c\week 1\submission\partb\commonfunctions.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	"CommonFunctions.h"
+
+1641400166 c:\users\lotto.tang\downloads\cs162c\week 1\submission\partb\commonfunctions.h
+	<iostream>
+	<algorithm>
+	<string>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1641283872 source:c:\users\lotto.tang\downloads\cs162c\week 1\submission\partb\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	"CommonFunctions.h"
+

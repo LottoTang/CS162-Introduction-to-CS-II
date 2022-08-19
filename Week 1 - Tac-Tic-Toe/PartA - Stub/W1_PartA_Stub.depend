@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1641389126 source:c:\users\lotto.tang\downloads\cs162c\week 1\submission\parta\commonfunctions.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	"CommonFunctions.h"
+
+1641389122 c:\users\lotto.tang\downloads\cs162c\week 1\submission\parta\commonfunctions.h
+	<iostream>
+	<algorithm>
+	<string>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1641389126 source:c:\users\lotto.tang\downloads\cs162c\week 1\submission\parta\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	"CommonFunctions.h"
+
