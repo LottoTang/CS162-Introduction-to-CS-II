@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Week3B.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="919" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="Week3B.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17026" topLine="71" />
+		</Cursor>
+		<Folding>
+			<Collapse line="19" />
+			<Collapse line="44" />
+			<Collapse line="76" />
+			<Collapse line="158" />
+			<Collapse line="201" />
+			<Collapse line="284" />
+			<Collapse line="298" />
+			<Collapse line="321" />
+			<Collapse line="428" />
+			<Collapse line="488" />
+			<Collapse line="499" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1027" topLine="19" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

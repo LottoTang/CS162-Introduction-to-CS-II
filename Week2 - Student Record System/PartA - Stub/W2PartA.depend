@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1641907435 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week2\w2parta\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<algorithm>
+	<iomanip>
+	"W2PartA.h"
+
+1641731420 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week2\w2parta\w2parta.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<algorithm>
+	<iomanip>
+	"W2PartA.h"
+
+1641731428 c:\users\lotto\desktop\lotto\computer science\cs162c\week2\w2parta\w2parta.h
+
+1641948562 source:c:\users\lotto.tang\desktop\self\cs162c\week2\w2parta\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<algorithm>
+	<iomanip>
+	"W2PartA.h"
+
+1641957083 c:\users\lotto.tang\desktop\self\cs162c\week2\w2parta\w2parta.h
+
+1641957083 source:c:\users\lotto.tang\desktop\self\cs162c\week2\w2parta\w2parta.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<algorithm>
+	<iomanip>
+	"W2PartA.h"
+
+1642000268 source:c:\users\lotto.tang\downloads\cs162c\week2\attempt2\week2\w2parta\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<iomanip>
+	"W2PartA.h"
+
+1642000268 c:\users\lotto.tang\downloads\cs162c\week2\attempt2\week2\w2parta\w2parta.h
+
+1642000266 source:c:\users\lotto.tang\downloads\cs162c\week2\attempt2\week2\w2parta\w2parta.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<iomanip>
+	"W2PartA.h"
+

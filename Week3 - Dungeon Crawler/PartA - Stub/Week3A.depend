@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1642574326 source:c:\users\lotto.tang\desktop\self\cs162c\week3a_final\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	"Week3A.h"
+
+1642571807 c:\users\lotto.tang\desktop\self\cs162c\week3a_final\week3a.h
+
+1642584938 source:c:\users\lotto.tang\desktop\self\cs162c\week3a_final\week3a.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<ctime>
+	"Week3A.h"
+
+1642690587 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week3\week3a_final\main.cpp
+	<iostream>
+	<algorithm>
+	"Week3A.h"
+
+1642690544 c:\users\lotto\desktop\lotto\computer science\cs162c\week3\week3a_final\week3a.h
+
+1642690593 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week3\week3a_final\week3a.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+	"Week3A.h"
+
+1642578040 source:c:\users\lotto.tang\downloads\cs162c\week3\parta - stub\main.cpp
+	<iostream>
+	"Week3A.h"
+
+1642575344 c:\users\lotto.tang\downloads\cs162c\week3\parta - stub\week3a.h
+
+1642578040 source:c:\users\lotto.tang\downloads\cs162c\week3\parta - stub\week3a.cpp
+	<iostream>
+	"Week3A.h"
+

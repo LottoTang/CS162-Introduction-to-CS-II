@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1642436119 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week3b\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	"Week3B.h"
+
+1642435623 c:\users\lotto\desktop\lotto\computer science\cs162c\week3b\week3b.h
+
+1642412651 source:c:\users\lotto.tang\desktop\self\cs162c\week3\week3b\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	"Week3B.h"
+
+1642411390 c:\users\lotto.tang\desktop\self\cs162c\week3\week3b\week3b.h
+
+1642523187 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week3\week3b\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	"Week3B.h"
+
+1642523314 c:\users\lotto\desktop\lotto\computer science\cs162c\week3\week3b\week3b.h
+
+1642523187 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week3\week3b\week3b.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<ctime>
+	"Week3B.h"
+
+1642413218 source:c:\users\lotto.tang\desktop\self\cs162c\week3\week3b\week3b.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<ctime>
+	"Week3B.h"
+
+1642435623 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week3b\week3b.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<ctime>
+	"Week3B.h"
+
+1642571807 source:c:\users\lotto.tang\desktop\self\cs162c\week3b\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	"Week3B.h"
+
+1642571807 c:\users\lotto.tang\desktop\self\cs162c\week3b\week3b.h
+
+1642571807 source:c:\users\lotto.tang\desktop\self\cs162c\week3b\week3b.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<ctime>
+	"Week3B.h"
+
+1642660890 source:c:\users\lotto.tang\desktop\self\cs162c\week3b_final\main.cpp
+	<iostream>
+	<algorithm>
+	"Week3B.h"
+
+1642660883 c:\users\lotto.tang\desktop\self\cs162c\week3b_final\week3b.h
+
+1642660883 source:c:\users\lotto.tang\desktop\self\cs162c\week3b_final\week3b.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+	"Week3B.h"
+
+1642603290 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week3\week3b_final\main.cpp
+	<iostream>
+	<algorithm>
+	"Week3B.h"
+
+1642614956 c:\users\lotto\desktop\lotto\computer science\cs162c\week3\week3b_final\week3b.h
+
+1642635724 source:c:\users\lotto.tang\desktop\self\cs162c\week3\week3b_final\main.cpp
+	<iostream>
+	<algorithm>
+	"Week3B.h"
+
+1642557356 c:\users\lotto.tang\desktop\self\cs162c\week3\week3b_final\week3b.h
+
+1642635724 source:c:\users\lotto.tang\desktop\self\cs162c\week3\week3b_final\week3b.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+	"Week3B.h"
+
+1642578124 source:c:\users\lotto.tang\downloads\cs162c\week3\partb - final product\main.cpp
+	<iostream>
+	<algorithm>
+	"Week3B.h"
+
+1642499756 c:\users\lotto.tang\downloads\cs162c\week3\partb - final product\week3b.h
+
+1642578124 source:c:\users\lotto.tang\downloads\cs162c\week3\partb - final product\week3b.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+	"Week3B.h"
+
