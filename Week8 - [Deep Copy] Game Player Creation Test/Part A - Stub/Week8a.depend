@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1645629096 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week8\week8a\trial 3\week8a\w8_player.cpp
+	"W8_Player.h"
+	<iostream>
+
+1645630822 c:\users\lotto\desktop\lotto\computer science\cs162c\week8\week8a\trial 3\week8a\w8_player.h
+	"W8_Person.h"
+
+1645507116 c:\users\lotto\desktop\lotto\computer science\cs162c\week8\week8a\trial 3\week8a\w8_person.h
+	<iostream>
+
+1645622886 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week8\week8a\trial 3\week8a\helper.cpp
+	"Helper.hpp"
+
+1645623875 c:\users\lotto\desktop\lotto\computer science\cs162c\week8\week8a\trial 3\week8a\helper.hpp
+	<string>
+	"W8_Player.h"
+
+1645631147 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week8\week8a\trial 3\week8a\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"Helper.hpp"
+	"W8_Person.h"
+	"W8_Player.h"
+
+1645573682 source:c:\users\lotto.tang\desktop\self\cs162c\week8\attempt2\week8\week8a\trial 3\week8a\helper.cpp
+	"Helper.hpp"
+
+1645573682 c:\users\lotto.tang\desktop\self\cs162c\week8\attempt2\week8\week8a\trial 3\week8a\helper.hpp
+	<string>
+	"W8_Player.h"
+
+1645667701 c:\users\lotto.tang\desktop\self\cs162c\week8\attempt2\week8\week8a\trial 3\week8a\w8_player.h
+	"W8_Person.h"
+
+1645449516 c:\users\lotto.tang\desktop\self\cs162c\week8\attempt2\week8\week8a\trial 3\week8a\w8_person.h
+	<iostream>
+
+1645573682 source:c:\users\lotto.tang\desktop\self\cs162c\week8\attempt2\week8\week8a\trial 3\week8a\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"Helper.hpp"
+	"W8_Person.h"
+	"W8_Player.h"
+
+1645573682 source:c:\users\lotto.tang\desktop\self\cs162c\week8\attempt2\week8\week8a\trial 3\week8a\w8_player.cpp
+	"W8_Player.h"
+	<iostream>
+
+1645664573 source:c:\users\lotto.tang\desktop\self\cs162c\week8\attempt2\week8\week8a\trial 3\week8a\w8_person.cpp
+
+1645516082 source:c:\users\lotto.tang\downloads\cs162c\week8\part a - stub\helper.cpp
+	"Helper.hpp"
+
+1645516082 c:\users\lotto.tang\downloads\cs162c\week8\part a - stub\helper.hpp
+	<string>
+	"W8_Player.h"
+
+1645610100 c:\users\lotto.tang\downloads\cs162c\week8\part a - stub\w8_player.h
+	"W8_Person.h"
+
+1645391916 c:\users\lotto.tang\downloads\cs162c\week8\part a - stub\w8_person.h
+	<iostream>
+
+1645516082 source:c:\users\lotto.tang\downloads\cs162c\week8\part a - stub\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"Helper.hpp"
+	"W8_Person.h"
+	"W8_Player.h"
+
+1645606972 source:c:\users\lotto.tang\downloads\cs162c\week8\part a - stub\w8_person.cpp
+
+1645516082 source:c:\users\lotto.tang\downloads\cs162c\week8\part a - stub\w8_player.cpp
+	"W8_Player.h"
+	<iostream>
+

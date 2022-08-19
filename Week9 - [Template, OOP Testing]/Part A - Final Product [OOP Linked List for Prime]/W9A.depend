@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1645975129 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week9\w9a\w9a\main.cpp
+	<iostream>
+	"W9_List.h"
+
+1646055272 c:\users\lotto\desktop\lotto\computer science\cs162c\week9\w9a\w9a\w9_list.h
+
+1646055272 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week9\w9a\w9a\w9_list.cpp
+	"W9_List.h"
+	<iostream>
+
+1646004472 source:c:\users\lotto.tang\downloads\cs162c\week9 - [template, oop testing]\part a - stub\main.cpp
+	<iostream>
+	"W9_List.h"
+
+1646004468 c:\users\lotto.tang\downloads\cs162c\week9 - [template, oop testing]\part a - stub\w9_list.h
+
+1646004472 source:c:\users\lotto.tang\downloads\cs162c\week9 - [template, oop testing]\part a - stub\w9_list.cpp
+	"W9_List.h"
+	<iostream>
+

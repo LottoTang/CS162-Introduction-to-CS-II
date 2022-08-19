@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1646101519 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week9\w9b\w9b\person.cpp
+	"Person.hpp"
+
+1646138653 c:\users\lotto\desktop\lotto\computer science\cs162c\week9\w9b\w9b\person.hpp
+	<string>
+	<ostream>
+
+1646121636 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week9\w9b\w9b\w9_list.cpp
+	"W9_List.h"
+	<iostream>
+
+1646138487 c:\users\lotto\desktop\lotto\computer science\cs162c\week9\w9b\w9b\w9_list.h
+	<exception>
+
+1646138653 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week9\w9b\w9b\main.cpp
+	<iostream>
+	"W9_List.h"
+	"Person.hpp"
+
+1646796563 source:c:\users\lotto.tang\desktop\self\cs162c\week9\w9b\main.cpp
+	<iostream>
+	"List.h"
+	"Person.hpp"
+
+1646796421 c:\users\lotto.tang\desktop\self\cs162c\week9\w9b\w9_list.h
+	<exception>
+
+1646138653 c:\users\lotto.tang\desktop\self\cs162c\week9\w9b\person.hpp
+	<string>
+	<ostream>
+
+1646101519 source:c:\users\lotto.tang\desktop\self\cs162c\week9\w9b\person.cpp
+	"Person.hpp"
+
+1646809432 c:\users\lotto.tang\desktop\self\cs162c\week9\w9b\list.h
+	<exception>
+
+1646796563 source:c:\users\lotto.tang\desktop\self\cs162c\week9\w9b_v2\main.cpp
+	<iostream>
+	"List.h"
+	"Person.hpp"
+
+1646809432 c:\users\lotto.tang\desktop\self\cs162c\week9\w9b_v2\list.h
+	<exception>
+
+1646138653 c:\users\lotto.tang\desktop\self\cs162c\week9\w9b_v2\person.hpp
+	<string>
+	<ostream>
+
+1646101519 source:c:\users\lotto.tang\desktop\self\cs162c\week9\w9b_v2\person.cpp
+	"Person.hpp"
+
+1646796563 source:c:\users\lotto.tang\downloads\cs162c\week9\part b\main.cpp
+	<iostream>
+	"List.h"
+	"Person.hpp"
+
+1646809432 c:\users\lotto.tang\downloads\cs162c\week9\part b\list.h
+	<exception>
+
+1646138653 c:\users\lotto.tang\downloads\cs162c\week9\part b\person.hpp
+	<string>
+	<ostream>
+
+1646101519 source:c:\users\lotto.tang\downloads\cs162c\week9\part b\person.cpp
+	"Person.hpp"
+

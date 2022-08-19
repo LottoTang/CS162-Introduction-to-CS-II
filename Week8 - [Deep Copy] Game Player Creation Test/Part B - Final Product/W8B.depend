@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1645674480 source:c:\users\lotto.tang\desktop\self\cs162c\week8\attempt2\week8\week8b_attempt2\w8b\w8_player.cpp
+	"W8_Player.h"
+	<iostream>
+
+1645674480 c:\users\lotto.tang\desktop\self\cs162c\week8\attempt2\week8\week8b_attempt2\w8b\w8_player.h
+	"W8_Person.h"
+
+1645674480 c:\users\lotto.tang\desktop\self\cs162c\week8\attempt2\week8\week8b_attempt2\w8b\w8_person.h
+	<iostream>
+
+1645674480 source:c:\users\lotto.tang\desktop\self\cs162c\week8\attempt2\week8\week8b_attempt2\w8b\helper.cpp
+	"Helper.hpp"
+
+1645674480 c:\users\lotto.tang\desktop\self\cs162c\week8\attempt2\week8\week8b_attempt2\w8b\helper.hpp
+	<string>
+	"W8_Player.h"
+
+1645674434 source:c:\users\lotto.tang\desktop\self\cs162c\week8\attempt2\week8\week8b_attempt2\w8b\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"Helper.hpp"
+	"W8_Person.h"
+	"W8_Player.h"
+	"W8_List.h"
+
+1645684450 c:\users\lotto.tang\desktop\self\cs162c\week8\attempt2\week8\week8b_attempt2\w8b\w8_list.h
+	"W8_Player.h"
+
+1645673872 source:c:\users\lotto.tang\desktop\self\cs162c\week8\attempt2\week8\week8b_attempt2\w8b\w8_list.cpp
+	"W8_List.h"
+	<iostream>
+
+1645616880 source:c:\users\lotto.tang\downloads\cs162c\week8\part b\helper.cpp
+	"Helper.hpp"
+
+1645616880 c:\users\lotto.tang\downloads\cs162c\week8\part b\helper.hpp
+	<string>
+	"W8_Player.h"
+
+1645616880 c:\users\lotto.tang\downloads\cs162c\week8\part b\w8_player.h
+	"W8_Person.h"
+
+1645616880 c:\users\lotto.tang\downloads\cs162c\week8\part b\w8_person.h
+	<iostream>
+
+1645616834 source:c:\users\lotto.tang\downloads\cs162c\week8\part b\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"Helper.hpp"
+	"W8_Person.h"
+	"W8_Player.h"
+	"W8_List.h"
+
+1645626850 c:\users\lotto.tang\downloads\cs162c\week8\part b\w8_list.h
+	"W8_Player.h"
+
+1645616272 source:c:\users\lotto.tang\downloads\cs162c\week8\part b\w8_list.cpp
+	"W8_List.h"
+	<iostream>
+
+1645616880 source:c:\users\lotto.tang\downloads\cs162c\week8\part b\w8_player.cpp
+	"W8_Player.h"
+	<iostream>
+

@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1644882190 source:c:\users\lotto.tang\desktop\self\cs162c\week7\week7b\main.cpp
+	<iostream>
+	"Week7B_HelperFunctions.h"
+	"Week7B_Person.h"
+
+1645063711 c:\users\lotto.tang\desktop\self\cs162c\week7\week7b\week7b_person.h
+	<iostream>
+
+1645085738 c:\users\lotto.tang\desktop\self\cs162c\week7\week7b\week7b_player.h
+	"Week7B_Person.h"
+	<iostream>
+
+1644824590 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week7\week7b\main.cpp
+	<iostream>
+	"Week7B_HelperFunctions.h"
+	"Week7B_Person.h"
+
+1645006110 c:\users\lotto\desktop\lotto\computer science\cs162c\week7\week7b\week7b_person.h
+	<iostream>
+
+1645109982 c:\users\lotto\desktop\lotto\computer science\cs162c\week7\week7b\week7b_player.h
+	"Week7B_Person.h"
+	<iostream>
+
+1645109336 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week7\week7b\week7b_helperfunctions.cpp
+	<iostream>
+	<algorithm>
+	"Week7B_HelperFunctions.h"
+	"Week7B_Player.h"
+
+1645028138 c:\users\lotto\desktop\lotto\computer science\cs162c\week7\week7b\week7b_helperfunctions.h
+	"Week7B_Player.h"
+
+1645061232 source:c:\users\lotto.tang\desktop\self\cs162c\week7\week7b\week7b_helperfunctions.cpp
+	<iostream>
+	<algorithm>
+	"Week7B_HelperFunctions.h"
+	"Week7B_Player.h"
+
+1645085738 c:\users\lotto.tang\desktop\self\cs162c\week7\week7b\week7b_helperfunctions.h
+	"Week7B_Player.h"
+
+1644900488 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week7\week7b\person.cpp
+	"Week7B_Person.h"
+
+1645105099 source:c:\users\lotto\desktop\lotto\computer science\cs162c\week7\week7b\player.cpp
+	"Week7B_Player.h"
+
+1644958088 source:c:\users\lotto.tang\desktop\self\cs162c\week7\week7b\person.cpp
+	"Week7B_Person.h"
+
+1645085738 source:c:\users\lotto.tang\desktop\self\cs162c\week7\week7b\player.cpp
+	"Week7B_Player.h"
+
+1645491359 source:c:\users\lotto.tang\desktop\self\cs162c\week7\week7b_ver.2\week7b\main.cpp
+	<iostream>
+	"Week7B_HelperFunctions.h"
+	"Week7B_Person.h"
+
+1645491359 c:\users\lotto.tang\desktop\self\cs162c\week7\week7b_ver.2\week7b\week7b_helperfunctions.h
+	"Week7B_Player.h"
+
+1645491396 c:\users\lotto.tang\desktop\self\cs162c\week7\week7b_ver.2\week7b\week7b_player.h
+	"Week7B_Person.h"
+	<string>
+
+1645491359 c:\users\lotto.tang\desktop\self\cs162c\week7\week7b_ver.2\week7b\week7b_person.h
+	<iostream>
+
+1644842888 source:c:\users\lotto.tang\desktop\self\cs162c\week7\week7b_ver.2\week7b\person.cpp
+	"Week7B_Person.h"
+
+1645491359 source:c:\users\lotto.tang\desktop\self\cs162c\week7\week7b_ver.2\week7b\player.cpp
+	"Week7B_Player.h"
+
+1645491359 source:c:\users\lotto.tang\desktop\self\cs162c\week7\week7b_ver.2\week7b\week7b_helperfunctions.cpp
+	<iostream>
+	<algorithm>
+	"Week7B_HelperFunctions.h"
+	"Week7B_Player.h"
+
+1645433758 source:c:\users\lotto.tang\downloads\cs162c\week7\part b - final product\main.cpp
+	<iostream>
+	"Week7B_HelperFunctions.h"
+	"Week7B_Person.h"
+
+1645433758 c:\users\lotto.tang\downloads\cs162c\week7\part b - final product\week7b_helperfunctions.h
+	"Week7B_Player.h"
+
+1645433796 c:\users\lotto.tang\downloads\cs162c\week7\part b - final product\week7b_player.h
+	"Week7B_Person.h"
+	<string>
+
+1645433758 c:\users\lotto.tang\downloads\cs162c\week7\part b - final product\week7b_person.h
+	<iostream>
+
+1644785288 source:c:\users\lotto.tang\downloads\cs162c\week7\part b - final product\person.cpp
+	"Week7B_Person.h"
+
+1645433758 source:c:\users\lotto.tang\downloads\cs162c\week7\part b - final product\player.cpp
+	"Week7B_Player.h"
+
+1645433758 source:c:\users\lotto.tang\downloads\cs162c\week7\part b - final product\week7b_helperfunctions.cpp
+	<iostream>
+	<algorithm>
+	"Week7B_HelperFunctions.h"
+	"Week7B_Player.h"
+

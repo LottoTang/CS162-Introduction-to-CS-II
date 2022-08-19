@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1644819363 source:c:\users\lotto.tang\desktop\self\cs162c\week7\week7a\main.cpp
+	<iostream>
+	"Week7A_Person.h"
+	"Week7A_Player.h"
+
+1644820200 c:\users\lotto.tang\desktop\self\cs162c\week7\week7a\week7a_person.h
+	<iostream>
+
+1644819363 c:\users\lotto.tang\desktop\self\cs162c\week7\week7a\week7a_player.h
+	"Week7A_Person.h"
+	<iostream>
+
+1645090366 source:c:\users\lotto.tang\desktop\self\cs162c\week7\week7a_ver.2\main.cpp
+	<iostream>
+	"Week7A_Person.h"
+	"Week7A_Player.h"
+
+1645090366 c:\users\lotto.tang\desktop\self\cs162c\week7\week7a_ver.2\week7a_person.h
+	<iostream>
+
+1645090479 c:\users\lotto.tang\desktop\self\cs162c\week7\week7a_ver.2\week7a_player.h
+	"Week7A_Person.h"
+	<iostream>
+
+1644917566 source:c:\users\lotto.tang\downloads\cs162c\week7\part a - stub\main.cpp
+	<iostream>
+	"Week7A_Person.h"
+	"Week7A_Player.h"
+
+1644917566 c:\users\lotto.tang\downloads\cs162c\week7\part a - stub\week7a_person.h
+	<iostream>
+
+1644917678 c:\users\lotto.tang\downloads\cs162c\week7\part a - stub\week7a_player.h
+	"Week7A_Person.h"
+	<iostream>
+
